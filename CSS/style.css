@@ -1,0 +1,65 @@
+/* keys */
+.keys{
+  width: 5%;
+  position: relative;
+  top: -20rem;
+  font-size: 45px;
+
+    color: white;
+    background-color: rgba(0, 0, 0, 0.744);
+transition: all 0.5s ease-in-out;
+
+border-radius: 20px;
+margin: 6px;
+}
+
+.keys:hover{
+  box-shadow: 0px 0px 15px 5px rgba(18, 214, 18, 0.5);
+}
+/* space */
+.space{
+  position: relative;
+  top: -20rem;
+  font-size: 50px;
+  width: 45%;
+
+    color: white;
+    background-color: rgba(0, 0, 0, 0.744);
+transition: all 0.5s ease-in-out;
+
+border-radius: 20px;
+margin: 6px;
+}
+
+.space:hover{
+  transition: all 0.5s ease-in-out;
+  width: 50%;
+  box-shadow: 0px 0px 15px 5px rgba(18, 214, 18, 0.5);
+}
+/* backspace */
+.backspace{
+  position: relative;
+  top: -20rem;
+  font-size: 50px;
+
+    color: white;
+    background-color: rgba(0, 0, 0, 0.744);
+transition: all 0.5s ease-in-out;
+
+border-radius: 20px;
+margin: 6px;
+}
+
+.backspace:hover{
+  box-shadow: 0px 0px 15px 5px rgba(18, 214, 18, 0.5);
+}
+
+/* keyboard */
+.keyboard{
+    position: relative;
+    left: 10%;
+    width: 80%;
+    border-radius: 20px;
+    padding-top: 22%;
+    background-color: rgba(0, 0, 0, 0.897);
+}
